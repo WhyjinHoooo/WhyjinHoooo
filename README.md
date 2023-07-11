@@ -2,12 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyjinHoooo)](https://github.com/WhyjinHoooo/github-readme-stats)
 
-
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
 ---
 **두껍게**<br>
 *기울기*<br>
